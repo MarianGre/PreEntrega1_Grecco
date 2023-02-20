@@ -1,0 +1,13 @@
+.container {
+  background-color: rgb(196, 198, 241);
+  display: flex;
+  justify-content: space-around;
+  color: rgb(67, 128, 219);
+}
+.store-icon {
+  font-size: 30px;
+  color: rgb(67, 128, 219);
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}

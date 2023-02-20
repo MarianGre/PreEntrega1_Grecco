@@ -1,0 +1,11 @@
+.item-list-container {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.item-list-container h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
